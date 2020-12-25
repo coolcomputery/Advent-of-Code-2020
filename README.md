@@ -1,9 +1,10 @@
 # Advent-of-Code-2020
 
-Stats:
-
+      Personal Stats:
+      571 points (so close to the top 100)
             -------Part 1--------   -------Part 2--------
       Day       Time  Rank  Score       Time  Rank  Score
+       25   00:05:12    28     73   00:05:19    25     76
        24   00:07:29   123      0   00:16:17   125      0
        23   00:09:44    78     23  *01:33:55  1037      0
        22   00:05:21   203      0   01:24:09  2427      0
@@ -29,3 +30,4 @@ Stats:
         2   00:06:39  1240      0   00:08:40   764      0
         1   00:07:35   859      0   00:08:08   298      0     
     * had to read other people's solutions
+NOTE: In every program I read from an input file called "IN.txt", but I don't have any such file in this repository: I copy the actual input from the Advent of Code website and paste into a file called "IN.txt" on my local computer.
